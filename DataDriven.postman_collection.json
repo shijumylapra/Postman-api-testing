@@ -1,0 +1,24 @@
+{
+	"info": {
+		"_postman_id": "ac2ed683-26a5-4f5b-a2d3-e23c6fa56dc8",
+		"name": "DataDriven",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "10786615"
+	},
+	"item": [
+		{
+			"name": "Get Records from CSV/JSON",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{endpoint}}",
+					"host": [
+						"{{endpoint}}"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
